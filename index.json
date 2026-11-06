@@ -1,0 +1,32 @@
+{
+  "format": 1,
+  "title": { "en": "Short Drama Writer", "zh": "短剧成稿师" },
+  "plugins": [
+    {
+      "name": "dsh-drama-script-writer",
+      "title": { "en": "Short Drama Writer", "zh": "短剧成稿师" },
+      "description": {
+        "en": "Write and revise usable short drama and AI comic scripts from an idea, outline, or draft.",
+        "zh": "从点子、大纲或旧稿写出可继续制作的短剧与漫剧剧本。"
+      },
+      "author": "浮生半世",
+      "homepage": "https://github.com/yangkaixin1225-afk/dsh-drama-script-writer",
+      "repository": {
+        "url": "https://github.com/yangkaixin1225-afk/dsh-drama-script-writer",
+        "directory": "drama-script-writer"
+      },
+      "versions": [
+        {
+          "version": "0.2.0",
+          "publishTimestamp": 1793953215,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/yangkaixin1225-afk/dsh-drama-script-writer",
+            "commit": "a043048e048204affe3daced0f79a5f510508a64",
+            "path": "drama-script-writer"
+          }
+        }
+      ]
+    }
+  ]
+}
