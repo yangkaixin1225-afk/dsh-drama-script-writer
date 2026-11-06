@@ -1,0 +1,10 @@
+{
+  "name": "dsh-drama-script-writer",
+  "version": "0.2.0",
+  "description": "短剧成稿师：从点子、大纲或旧稿写出可用的短剧与漫剧剧本。",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js", "cordis.patch.yml", "SKILL.md"],
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } },
+  "license": "MIT"
+}
